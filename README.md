@@ -1,8 +1,8 @@
 - 👋 Hi, I’m rarara
-- 👀 I’m interested in nothing...
+- 👀 I’m interested in websec(maybe..)
 - 🌱 I’m currently learning ?
 - 💞️ I’m looking to collaborate on literature??(maybe or not)
-- 📫 How to reach me ...
+- 📫 How to reach me (Maybe find my blog, we shall meet)
 
 ## Who am I?
 
