@@ -10,7 +10,8 @@ I'm an undergraduate student learning <font color="red">**web**</font><font colo
 
 (The following is a picture that my friend given to me)
 
-![](README.assets/兔兔.jpg width="100px")
+![](README.assets/兔兔.jpg)
+<img src="README.assets/兔兔.jpg" width="300" height="200">
 
 <!---
 KirstenCarton/KirstenCarton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
