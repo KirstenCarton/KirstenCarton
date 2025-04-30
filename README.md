@@ -6,7 +6,7 @@
 
 ## Who am I?
 
-I'm an undergraduate student learning <font color="red">**web**</font><font color="blue"> **sec**</font>~
+I'm an undergraduate student learning <font color="blue"> **sec**</font>~
 
 <!---
 KirstenCarton/KirstenCarton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
