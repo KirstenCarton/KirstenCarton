@@ -1,12 +1,12 @@
 - 👋 Hi, I’m rarara
-- 👀 I’m interested in websec(maybe..)
+- 👀 I’m interested in cybersecurity(maybe..)
 - 🌱 I’m currently learning ?
 - 💞️ I’m looking to collaborate on literature??(maybe or not)
 - 📫 How to reach me (Maybe find my blog, we shall meet)
 
 ## Who am I?
 
-I'm an undergraduate student learning <font color="blue"> **sec**</font>~
+I'm learning <font color="blue"> **AI for sec**</font>~
 
 <!---
 KirstenCarton/KirstenCarton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
